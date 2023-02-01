@@ -60,7 +60,7 @@ React - A JavaScript library for building user interfaces.
 
 ## Author
 Contributed by:
-- [Glory Mithika](https://www.github.com/MakenaG)
+- [Glory Mithika](https://github.com/kenneymoh)
 
 ## License
 
